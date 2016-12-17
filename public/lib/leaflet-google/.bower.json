@@ -1,0 +1,13 @@
+{
+  "name": "leaflet-google",
+  "_cacheHeaders": {
+    "ETag": "\"13a9be00c5b547d4be2c38bc2ae4ee0033005475\"",
+    "Content-Length": "2030",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:13a9be00c",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/elchingon/leaflet-plugins/master/layer/tile/Google.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/elchingon/leaflet-plugins/master/layer/tile/Google.js"
+}

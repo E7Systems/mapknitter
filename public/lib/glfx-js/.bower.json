@@ -1,0 +1,35 @@
+{
+  "name": "glfx",
+  "version": "0.0.1",
+  "description": "An image effects library for JavaScript using WebGL",
+  "main": "dist/glfx.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "gx",
+    "opengl",
+    "canvas"
+  ],
+  "authors": [
+    "Evan Wallace"
+  ],
+  "license": "MIT",
+  "homepage": "http://evanw.github.io/glfx.js/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "07a117c2b7c75a8556d7338108c0976d110c11a2"
+  },
+  "_source": "https://github.com/jywarren/glfx.js.git",
+  "_target": "*",
+  "_originalSource": "git+https://github.com/jywarren/glfx.js.git"
+}

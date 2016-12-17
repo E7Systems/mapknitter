@@ -1,0 +1,13 @@
+{
+  "name": "modalbox",
+  "homepage": "https://github.com/okonet/modalbox",
+  "_release": "dab4d4f0b3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "dab4d4f0b3244f7c3dff24424a850d3379bc7c9c"
+  },
+  "_source": "https://github.com/okonet/modalbox.git",
+  "_target": "*",
+  "_originalSource": "okonet/modalbox"
+}
