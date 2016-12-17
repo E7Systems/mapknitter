@@ -34,7 +34,6 @@ group :dependencies do
   gem "sass"
   gem "autoprefixer-rails"
   gem "uglifier"
-
 end
 
 group :development do
@@ -47,7 +46,7 @@ group :sqlite do
   gem "sqlite3"
 end
 
-group :passenger do
+group :production do
   # passenger server
-  gem "passenger"
+  gem 'unicorn'
 end
