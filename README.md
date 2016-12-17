@@ -116,3 +116,14 @@ Help improve Public Lab software!
 * Review contributor guidelines at http://publiclab.org/wiki/contributing-to-public-lab-software
 * Some devs hang out in http://publiclab.org/chat (irc webchat)
 
+
+## LOCAL CHANGES
+1. Added Unicorn instead of Passenger
+2. Had to fix geokit-rails 
+	- Change instances of GeoKit to Geokit
+	- vim /home/USER/.rvm/gems/ruby-2.1.2@GEMSET/gems/geokit-rails-1.1.4/lib/geokit-rails.rb
+	## TODO fork geokit-rails to fix
+3. Had to fork leaflet-plugins rawcontent to include the Google.js
+	- https://raw.githubusercontent.com/elchingon/leaflet-plugins/master/layer/tile/Google.js
+4. Had to manually create the leaflet-omnivore/leaflet-omnivore.min.js file.Found it on https://mapknitter.org/lib/leaflet-omnivore/leaflet-omnivore.min.js
+5. Lots of mini hacks
